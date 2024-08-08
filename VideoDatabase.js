@@ -29,10 +29,18 @@
         // Note: the "tags" property is optional. The demo player uses this to filter the video
         // list -- for example, to only display FairPlay-compliant videos on Safari.
         {
+            "name": "Kalindu Abayakoon - SampleUpload2",
+            "url": "https://0b1dbb1c3cb0e04dcc0fa763.blob.core.windows.net/video-output/LxrxUsHchdskghBwKBequw/dash/manifest.mpd",
+            "keys": [
+                {
+                    "keyId": "a1aa5426-9337-4e3f-82d9-a4627ec006e6"
+                }
+            ]
+        },
+        {
             "name": "Axinom demo video - single key (DASH; cenc)",
             "url": "https://media.axprod.net/VTB/DrmQuickStart/AxinomDemoVideo-SingleKey/Encrypted_Cenc/Manifest.mpd",
             "licenseToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjogMSwKImJlZ2luX2RhdGUiOiAiMjAwMC0wMS0wMVQxNzo1NzowNyswMzowMCIsCiJleHBpcmF0aW9uX2RhdGUiOiAiMjAyNS0xMi0zMVQyMzo1OTo0MCswMzowMCIsCiJjb21fa2V5X2lkIjogIjMwZGQ1NDI0LWIwNDItNGY5NC04OGEwLWIxYzUwMGEyOWYxOCIsCiJtZXNzYWdlIjogewogICJ0eXBlIjogImVudGl0bGVtZW50X21lc3NhZ2UiLAogICJ2ZXJzaW9uIjogMiwKICAibGljZW5zZSI6IHsKICAgICJkdXJhdGlvbiI6IDM2MDAKICB9LAogICJjb250ZW50X2tleXNfc291cmNlIjogewogICAgImlubGluZSI6IFsKICAgICAgewogICAgICAgICJpZCI6ICIxMTExMTExMS0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiCiAgICAgIH0KICAgIF0KICB9Cn19._zcHeRLolaKLsf8WYhahC66Igld8IAH2iTF3w_zVssE"
-            // "licenseToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2ZXJzaW9uIjoxLCJjb21fa2V5X2lkIjoiNjllNTQwODgtZTllMC00NTMwLThjMWEtMWViNmRjZDBkMTRlIiwibWVzc2FnZSI6eyJ2ZXJzaW9uIjoyLCJ0eXBlIjoiZW50aXRsZW1lbnRfbWVzc2FnZSIsImxpY2Vuc2UiOnsiYWxsb3dfcGVyc2lzdGVuY2UiOnRydWV9LCJjb250ZW50X2tleXNfc291cmNlIjp7ImlubGluZSI6W3siaWQiOiIyMTFhYzFkYy1jOGEyLTQ1NzUtYmFmNy1mYTRiYTU2YzM4YWMiLCJ1c2FnZV9wb2xpY3kiOiJUaGVPbmVQb2xpY3kifV19LCJjb250ZW50X2tleV91c2FnZV9wb2xpY2llcyI6W3sibmFtZSI6IlRoZU9uZVBvbGljeSIsInBsYXlyZWFkeSI6eyJwbGF5X2VuYWJsZXJzIjpbIjc4NjYyN0Q4LUMyQTYtNDRCRS04Rjg4LTA4QUUyNTVCMDFBNyJdfX1dfX0.D9FM9sbTFxBmcCOC8yMHrEtTwm0zy6ejZUCrlJbHz_U"
         },
         {
             "name": "Axinom demo video - single key (HLS; cbcs)",
