@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 (function () {
 	"use strict";
 
@@ -106,7 +107,7 @@
 					let inlineKey = {
 						"id": key.keyId,
 						"usage_policy": "Policy A"		
-					} 
+					};
 
 					message.content_keys_source.inline.push(inlineKey);
 				});
