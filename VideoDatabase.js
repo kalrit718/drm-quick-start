@@ -29,11 +29,11 @@
         // Note: the "tags" property is optional. The demo player uses this to filter the video
         // list -- for example, to only display FairPlay-compliant videos on Safari.
         {
-            "name": "Kalindu Abayakoon - SampleUpload2",
-            "url": "https://0b1dbb1c3cb0e04dcc0fa763.blob.core.windows.net/video-output/LxrxUsHchdskghBwKBequw/dash/manifest.mpd",
+            "name": "Kalindu Abayakoon - SampleUpload (Single Key)",
+            "url": "https://0b1dbb1c3cb0e04dcc0fa763.blob.core.windows.net/video-output/JqHUUWSKFcnMS62y3hMP5H/dash/manifest.mpd",
             "keys": [
                 {
-                    "keyId": "a1aa5426-9337-4e3f-82d9-a4627ec006e6"
+                    "keyId": "b2a3dafc-4b64-4db2-a868-e6ce498fd6c5"
                 }
             ]
         },
