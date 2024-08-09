@@ -38,6 +38,21 @@
             ]
         },
         {
+            "name": "Kalindu Abayakoon - SampleUpload (Multiple Keys)",
+            "url": "https://0b1dbb1c3cb0e04dcc0fa763.blob.core.windows.net/video-output/FtMZH4Fdx75YEfzUv6T6jR/dash/manifest.mpd",
+            "keys": [
+                {
+                    "keyId": "49c570c5-5737-4700-be83-b3173209e7f2"
+                },
+                {
+                    "keyId": "25da3d66-18da-4eb0-95c8-da78b4902831"
+                },
+                {
+                    "keyId": "95a083b0-8844-423c-981e-ad91e777d8b6"
+                }
+            ]
+        },
+        {
             "name": "Axinom demo video - single key (DASH; cenc)",
             "url": "https://media.axprod.net/VTB/DrmQuickStart/AxinomDemoVideo-SingleKey/Encrypted_Cenc/Manifest.mpd",
             "licenseToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjogMSwKImJlZ2luX2RhdGUiOiAiMjAwMC0wMS0wMVQxNzo1NzowNyswMzowMCIsCiJleHBpcmF0aW9uX2RhdGUiOiAiMjAyNS0xMi0zMVQyMzo1OTo0MCswMzowMCIsCiJjb21fa2V5X2lkIjogIjMwZGQ1NDI0LWIwNDItNGY5NC04OGEwLWIxYzUwMGEyOWYxOCIsCiJtZXNzYWdlIjogewogICJ0eXBlIjogImVudGl0bGVtZW50X21lc3NhZ2UiLAogICJ2ZXJzaW9uIjogMiwKICAibGljZW5zZSI6IHsKICAgICJkdXJhdGlvbiI6IDM2MDAKICB9LAogICJjb250ZW50X2tleXNfc291cmNlIjogewogICAgImlubGluZSI6IFsKICAgICAgewogICAgICAgICJpZCI6ICIxMTExMTExMS0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiCiAgICAgIH0KICAgIF0KICB9Cn19._zcHeRLolaKLsf8WYhahC66Igld8IAH2iTF3w_zVssE"
